@@ -20,5 +20,4 @@ int main()
 ```
 
 ## LIENS EXTERNES
-http://www.stroustrup.com/applications.html
-[GitHub](http://www.stroustrup.com/applications.html)
+[stroustrup.com](http://www.stroustrup.com/)
