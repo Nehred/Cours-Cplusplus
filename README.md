@@ -24,20 +24,20 @@ int main()
 }
 ```
 
-Header:
+**Header:**
 ```c++
 #include <iostream>
 ```
 C++ offre différents headers, chacun contenant les informations nécessaires à votre programme pour bien fonctionner.<br/>
 Le **#** cible le pré-processeur du compilateur pour inclure le header <iostream>.
 
-namespace (espace de noms):
+**Namespace (espace de noms):**
 ```c++
 using namespace std;
 ```
 **std** inclus les fonctionnalités de la bibliothèque standard de **C++**.
 
-Fonction:
+**Fonction:**
 ```c++
 int main()
 {
