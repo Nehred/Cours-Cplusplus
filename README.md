@@ -1,6 +1,7 @@
 # COURS C++
 ## HISTOIRE
-**Bjarne Stroustrup**, au cours des années 80 pour sa thèse de doctorat, lui
+[cpluplus.com](http://www.cplusplus.com/info/history/)
+**Bjarne Stroustrup**, au cours des années 80 pour sa thèse de doctorat lui
 vient l'idée de créer un nouveau language. Inspiré du language **Simula** arrive
 donc *C with classes* qui deviendra plus tard *C++*.<br/>
 ## PREPARATION
@@ -21,5 +22,6 @@ int main()
 ```
 
 ## LIENS EXTERNES
-[stroustrup.com](http://www.stroustrup.com/)
-http://www.cplusplus.com/info/history/
+[stroustrup.com](http://www.stroustrup.com/)<br/>
+[Wikipédia - Programmation orientée objet](https://fr.wikipedia.org/wiki/Programmation_orient%C3%A9e_objet)<br/>
+[Wikipédia - C++](https://fr.wikipedia.org/wiki/Programmation_orient%C3%A9e_objet)
