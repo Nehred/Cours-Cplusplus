@@ -1,12 +1,14 @@
 # COURS C++
 
-## GETTING STARTED
-1. Install **Code::Blocks**
+## HISTOIRE
+**C++** est un language développé par **Bjarne Stroustrup** au cours des années 80
+## PREPARATION
+1. Installer **Code::Blocks**
 
 
 
 
-```C++
+```c++
 #include <iostream>
 using namespace std;
 
@@ -16,3 +18,7 @@ int main()
   return 0;
 }
 ```
+
+## LIENS EXTERNES
+http://www.stroustrup.com/applications.html
+[GitHub](http://www.stroustrup.com/applications.html)
