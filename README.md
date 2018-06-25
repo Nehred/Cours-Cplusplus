@@ -1,5 +1,4 @@
-#COURS C++
+# COURS C++
 
-##GETTING STARTED
+## GETTING STARTED
 1. Install Code::Blocks
-2.
