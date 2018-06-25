@@ -1,9 +1,8 @@
 # COURS C++
 ## HISTOIRE
-### Au cours des années 1980:
-**Bjarne Stroustrup**, pour sa thèse de doctorat, lui vient l'idée de créer un
-nouveau language. Inspiré du language **Simula** arrive *C with classes* qui
-plus tard *C++*.
+**Bjarne Stroustrup**,au cours des années 80 pour sa thèse de doctorat, lui vient l'idée de créer un
+nouveau language. Inspiré du language **Simula** arrive donc *C with classes* qui
+deviendra plus tard *C++*.
 ## PREPARATION
 1. Installer **Code::Blocks**
 
