@@ -1,7 +1,8 @@
 # COURS C++
-
+![Bjarne Stroustrup](https://fr.wikipedia.org/wiki/C%2B%2B#/media/File:BjarneStroustrup.jpg)
 ## HISTOIRE
-**C++** est un language développé par **Bjarne Stroustrup** au cours des années 80
+Originairement appelé *C with classes*, **C++** est un language développé par **Bjarne Stroustrup** au cours des années 80.
+Le but de l'époque était d'améliorer le language **C**
 ## PREPARATION
 1. Installer **Code::Blocks**
 
