@@ -28,8 +28,23 @@ Header:
 ```c++
 #include <iostream>
 ```
-C++ offre différents headers, chacun contenant les informations nécessaires à votre programme pour bien fonctionner. This particular program calls for the header <iostream>.
-The number sign (#) at the beginning of a line targets the compiler's pre-processor. In this case, #include tells the pre-processor to include the <iostream> header.
+C++ offre différents headers, chacun contenant les informations nécessaires à votre programme pour bien fonctionner.<br/>
+Le **#** cible le pré-processeur du compilateur pour inclure le header <iostream>.
+
+namespace (espace de noms):
+```c++
+using namespace std;
+```
+**std** inclus les fonctionnalités de la bibliothèque standard de **C++**.
+
+Fonction:
+```c++
+int main()
+{
+  cout << "Hello world!";
+  return 0;
+}
+```
 
 ## PREPARATION
 1. Installer **Code::Blocks**
@@ -42,5 +57,5 @@ The number sign (#) at the beginning of a line targets the compiler's pre-proces
 [stroustrup.com](http://www.stroustrup.com/)<br/>
 [Wikipédia - Programmation orientée objet](https://fr.wikipedia.org/wiki/Programmation_orient%C3%A9e_objet)<br/>
 [Wikipédia - Simula](https://fr.wikipedia.org/wiki/Simula)<br/>
-[Wikipédia - C++](https://fr.wikipedia.org/wiki/C%2B%2B)
+[Wikipédia - C++](https://fr.wikipedia.org/wiki/C%2B%2B)<br/>
 [Wikipédia - Compilateur](https://fr.wikipedia.org/wiki/Compilateur)
