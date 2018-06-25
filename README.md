@@ -1,11 +1,11 @@
 # COURS C++
 ## HISTOIRE
-[cpluplus.com](http://www.cplusplus.com/info/history/)<br/>
 **Bjarne Stroustrup**, pour sa thèse de doctorat lui vient l'idée de créer un
-nouveau language. Inspiré du language **_Simula_**  arrive donc **_C with classes_**
-qui deviendra plus tard **_C++_** .<br/>
-1985, **_C++_**  devient un produit commercial et est normalisé en 1998 (*ISO/CEI 14882:1998*).
+nouveau language. Inspiré du language **_Simula_** arrive donc **_C with classes_**
+qui deviendra plus tard **_C++_**. 1985, **_C++_** devient un produit commercial
+et est normalisé en 1998 (*ISO/CEI 14882:1998*).
 
+[Plus de détails sur cpluplus.com](http://www.cplusplus.com/info/history/)<br/>
 ## PREPARATION
 1. Installer **Code::Blocks**
 
