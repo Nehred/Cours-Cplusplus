@@ -10,12 +10,9 @@ arrive donc **_C with classes_** qui deviendra plus tard **_C++_**. **1985**,
 
 [Plus de détails sur cpluplus.com](http://www.cplusplus.com/info/history/)<br/>
 
-## PREPARATION
-1. Installer **Code::Blocks**
-
-
-
-
+## USAGE
+## SYNTAXE
+Exemple de syntaxe:
 ```c++
 #include <iostream>
 using namespace std;
@@ -27,8 +24,23 @@ int main()
 }
 ```
 
+Header:
+```c++
+#include <iostream>
+```
+C++ offre différents headers, chacun contenant les informations nécessaires à votre programme pour bien fonctionner. This particular program calls for the header <iostream>.
+The number sign (#) at the beginning of a line targets the compiler's pre-processor. In this case, #include tells the pre-processor to include the <iostream> header.
+
+## PREPARATION
+1. Installer **Code::Blocks**
+
+
+
+
+
 ## LIENS EXTERNES
 [stroustrup.com](http://www.stroustrup.com/)<br/>
 [Wikipédia - Programmation orientée objet](https://fr.wikipedia.org/wiki/Programmation_orient%C3%A9e_objet)<br/>
 [Wikipédia - Simula](https://fr.wikipedia.org/wiki/Simula)<br/>
-[Wikipédia - C++](https://fr.wikipedia.org/wiki/Programmation_orient%C3%A9e_objet)
+[Wikipédia - C++](https://fr.wikipedia.org/wiki/C%2B%2B)
+[Wikipédia - Compilateur](https://fr.wikipedia.org/wiki/Compilateur)
