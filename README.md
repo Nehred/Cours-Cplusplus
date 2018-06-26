@@ -20,7 +20,7 @@ using namespace std;
 
 int main()
 {
-  cout << "Hello world!\n";
+  cout << "Hello World!\n";
   return 0;
 }
 ```
@@ -42,7 +42,7 @@ using namespace std;
 ```c++
 int main()
 {
-  cout << "Hello world!\n";
+  cout << "Hello World!\n";
   return 0;
 }
 ```
@@ -64,8 +64,9 @@ Le point de démarrage est `main()` peu importe le programme.
 
 ## LIENS EXTERNES
 [stroustrup.com](http://www.stroustrup.com/)<br/>
-Wikipédia - [Programmation orientée objet](https://fr.wikipedia.org/wiki/Programmation_orient%C3%A9e_objet)<br/>
-Wikipédia - [Simula](https://fr.wikipedia.org/wiki/Simula)<br/>
-Wikipédia - [C++](https://fr.wikipedia.org/wiki/C%2B%2B)<br/>
-Wikipédia - [Compilateur](https://fr.wikipedia.org/wiki/Compilateur)<br/>
-Wikipédia - [Bibliothèque standard du C++](https://fr.wikipedia.org/wiki/Biblioth%C3%A8que_standard_du_C%2B%2B)
+Wikipédia:
+1. [Programmation orientée objet](https://fr.wikipedia.org/wiki/Programmation_orient%C3%A9e_objet)<br/>
+2. [Simula](https://fr.wikipedia.org/wiki/Simula)<br/>
+3. [C++](https://fr.wikipedia.org/wiki/C%2B%2B)<br/>
+4. [Compilateur](https://fr.wikipedia.org/wiki/Compilateur)<br/>
+5. [Bibliothèque standard du C++](https://fr.wikipedia.org/wiki/Biblioth%C3%A8que_standard_du_C%2B%2B)
