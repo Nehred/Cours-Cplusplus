@@ -45,7 +45,9 @@ int main()
   return 0;
 }
 ```
-Le point de démarrage est `main()` peu importe le programme.
+Le point de démarrage est `main()` peu importe le programme.<br/>
+`cout` imprime `Hello World` dans la console.<br/>
+`return 0` termine `main()`.
 
 ## PREPARATION
 1. Installer **Code::Blocks**
