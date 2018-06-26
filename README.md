@@ -63,8 +63,8 @@ Le point de démarrage est `main()` peu importe le programme.
 
 
 ## LIENS EXTERNES
-[stroustrup.com](http://www.stroustrup.com/)<br/>
-Wikipédia:
+1. [stroustrup.com](http://www.stroustrup.com/)<br/>
+2. Wikipédia:
 - [Programmation orientée objet](https://fr.wikipedia.org/wiki/Programmation_orient%C3%A9e_objet)<br/>
 - [Simula](https://fr.wikipedia.org/wiki/Simula)<br/>
 - [C++](https://fr.wikipedia.org/wiki/C%2B%2B)<br/>
