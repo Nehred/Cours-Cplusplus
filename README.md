@@ -53,8 +53,9 @@ Le point de démarrage est `main()` peu importe le programme.
 1. Créer un fichier: `<nomdufichier>.cpp`
 2. Écrire le code.
 3. Ouvrir le terminal et se rendre dans le dossier où se trouve votre fichier .cpp.
-3. Compiler le code avec: `$ g++ hello.cpp` > Le **$** n'est pas nécessaire sur Windows.
-4. Lancer le programme avec: `$ ./a.out` > Le **$** n'est pas nécessaire sur Windows.
+3. Compiler le code avec: `$ g++ hello.cpp`
+4. Lancer le programme avec: `$ ./a.out`
+> Le **$** n'est pas nécessaire sur Windows.
 
 
 
